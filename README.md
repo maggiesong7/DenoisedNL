@@ -3,7 +3,7 @@
 PyTorch code for DenoisedNL (TNNLS 2023).
 
 Denoised Non-local Neural Network for Semantic Segmentation  
-Qi Song, Jie Li, and Hao Guo
+Qi Song, Jie Li, and Hao Guo   
 TNNLS, 2023  
 [[Paper](https://ieeexplore.ieee.org/abstract/document/10018899)]
 
