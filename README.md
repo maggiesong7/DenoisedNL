@@ -1,4 +1,4 @@
-# Denoised Non-Local Neural Network for Semantic Segmentation
+# Denoised Non-Local Neural Network for Semantic Segmentation [TNNLS 2023]
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/10018899)
 
 ## Introduction
